@@ -1,3 +1,3 @@
 # hello--world
-sample repository
-sample
+Group 1 - GitHub Group Activity
+
